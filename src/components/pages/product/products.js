@@ -1,0 +1,50 @@
+export const products = [
+    {
+        id: 1,
+        title: "Bashundhara Chanachur",
+        description: "CHANACHUR is one of the newest products of Bashundhara Multi Food Products Limited. It is made of high-quality ingredients like fried lentils, peanuts, chickpea gram flour, flattened rice, etc. along with spices of all sorts. Our products are manufactured with advanced technology, ensuring zero human product touch during the entire process because you deserve nothing less than safe, hygienic snacks of the highest quality.  You can be assured that our promise will always be maintained and we will never fall short of your expectations.",
+        price: "55",
+        img: "https://www.bashundharafood.com/assets/upload/wallpaper_1658989133.jpg",
+        quantity: 1,
+    },
+    {
+        id: 2,
+        title: "Bashundhara Lachsa Semai",
+        description: "Lachsa Semai From the simplest of happy moments to the biggest of festivals, the traditional, mouth-watering dessert lachsa semai is prepared to share happiness with a sweet tooth. Lachsa semai is an instant wholesome food which is simple, fast & easy to prepare. Instantly prepare with sweetened warm milk and garnish with raisins, various nuts and dried fruits for attractive decoration and delicious taste.",
+        price: "35",
+        img: "https://www.bashundharafood.com/assets/upload/wallpaper_1653907431.png",
+        quantity: 1,
+    },
+    {
+        id: 3,
+        title: "Bashundhara Vermicelli",
+        description: "Vermicelli Vermicelli semai is an Eid staple and is also consumed throughout the year. Because of the versatility of Vermicelli, everyone is free to add their own unique touch to the end product. Usually cooked in sweetened thickened milk, cream, and ghee and decked with slivered pistachios, almonds, raisins, and saffron, Vermicelli makes delicious traditional home-made affectionate dessert to satisfy the tastebud.",
+        price: "30",
+        img: "https://www.bashundharafood.com/assets/upload/wallpaper_1653907392.png",
+        quantity: 1,
+    },
+    {
+        id: 4,
+        title: "Bashundhara Noodles",
+        description: "Noodles Panda Authentic Chinese noodles is made from state of art machine technology which ensures authentic Chinese flavor & real Chinese taste! Full of fibre and minerals, Panda noodles is produced for commercial purposes especially for five-star hotels and high-end restaurants. However, this product is also very popular for household consumption confirming restaurant like taste at your home!",
+        price: "50",
+        img: "https://www.bashundharafood.com/assets/upload/wallpaper_1651981484.png",
+        quantity: 1,
+    },
+    {
+        id: 5,
+        title: "Bashundhara Pasta",
+        description: "Pasta Delightfully tasty & cheesy and full of quality nutrition. Everyone's going to love it.",
+        price: "105",
+        img: "https://www.bashundharafood.com/assets/upload/wallpaper_1651981798.png",
+        quantity: 1,
+    },
+    {
+        id: 6,
+        title: "Bashundhara Soybean Oil",
+        description: "To serve customers with the best quality products Bashundhara Multi Food Products Ltd. has introduced a new brand under its Edible Oil portfolio with the Brand Name Bashundhara Maharaja Super Fine Fortified Palm Olein. Bangladesh is a country of rich culture associated with myriads of food and tastes. This Bashundhara Maharaja Super Fine Fortified Palm Olein is a suitable choice for every household in their daily cooking which is enriched with nutritious values.",
+        price: "390",
+        img: "https://www.bashundharafood.com/assets/upload/wallpaper_1597834156.jpg",
+        quantity: 1,
+    }
+];
